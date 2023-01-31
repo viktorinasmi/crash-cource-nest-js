@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "tabWidth": 2,
+  //если 1 аргумент скобки убираются
+  "arrowParens": "avoid",
+}
